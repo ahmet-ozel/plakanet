@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-2400.png" alt="Plakanet Logo" width="180" />
+  <img src="logo.png" alt="Plakanet Logo" width="180" />
 </p>
 
 <h1 align="center">Plakanet</h1>
@@ -38,9 +38,7 @@
 
 ## Ekran Görüntüleri
 
-<p align="center">
-  <img src="admin-dashboard-v2.png" alt="Dashboard" width="700" />
-</p>
+*Yakında eklenecek*
 
 ## Başlarken
 
